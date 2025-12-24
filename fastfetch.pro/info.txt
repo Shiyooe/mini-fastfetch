@@ -1,0 +1,20 @@
+fastfetch-pro/
+├── Makefile
+├── README.md
+├── src/
+│   ├── main.c
+│   ├── colors.c
+│   ├── os.c
+│   ├── cpu.c
+│   ├── memory.c
+│   ├── uptime.c
+│   ├── ascii.c
+│   └── utils.c
+├── include/
+│   ├── colors.h
+│   ├── os.h
+│   ├── cpu.h
+│   ├── memory.h
+│   ├── uptime.h
+│   ├── ascii.h
+│   └── utils.h
