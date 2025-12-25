@@ -11,11 +11,12 @@ Minimal fastfetch clone written in C for Linux.
 
 ## Build
 ```bash
-make
 
-## Output example
+
 make
 ./fastfetch-pro
+
+## Output example
 
 rm -f fastfetch-pro
 gcc -Wall -Wextra -Iinclude src/*.c -o fastfetch-pro
